@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Varsha
+- 👀 I’m interested in Problem Solving.
+- 🌱 I’m currently learning Web development
+- 🌐 I'm fascinated by how technology can solve real-world problems.
+- 🧠 Always eager to learn and grow both professionally and personally.
+- 🎯 Focused on setting and achieving goals in my coding journey.
